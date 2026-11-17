@@ -9,7 +9,6 @@
 ![.NET](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4)
 ![Version](https://img.shields.io/badge/Version-1.3.1-C8F43C)
 ![Portable](https://img.shields.io/badge/Portable-Single%20EXE-555555)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Spende%20%2F%20Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/alpha10)
 
 ![Alpha10 UsbView](docs/screenshot-dunkel.png)
 
