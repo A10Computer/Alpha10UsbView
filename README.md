@@ -10,7 +10,6 @@
 ![Version](https://img.shields.io/badge/Version-1.3.1-C8F43C)
 ![Portable](https://img.shields.io/badge/Portable-Single%20EXE-555555)
 
-![Alpha10 UsbView](docs/screenshot-dunkel.png)
 
 **🇩🇪 [Deutsch](#-deutsch) · 🇬🇧 [English](#-english)**
 
