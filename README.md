@@ -83,7 +83,7 @@ Everything stays on this PC: no internet, no data transfer. Only settings are st
 
 ### ⚖️ Disclaimer
 
-Use at your own risk. Deleted entries cannot be restored; disconnecting and disabling affect running devices. No warranty for completeness or correctness. Details: [Readme.pdf](Readme.pdf).
+Use at your own risk. Deleted entries cannot be restored; disconnecting and disabling affect running devices. No warranty for completeness or correctness. Details: Readme.pdf in der .zip Datei. 
 
 ---
 
